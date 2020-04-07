@@ -4,7 +4,15 @@
   bottom: 10;
   left: 0;
   padding: 4rem;
-  background-color: black;
+  background-color: #242424;
   text-align: center;
   color: White;
+}
+h1,p {
+  font-family: 'Sen', sans-serif;
+  font-weight: bold;
+}
+.ft:hover {
+  text-align: center;
+  background-color: grey;
 }
