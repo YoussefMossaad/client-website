@@ -13,6 +13,8 @@ h1,p {
   font-weight: bold;
 }
 .ft:hover {
-  text-align: center;
   background-color: grey;
+}
+.ft {
+  text-align: center;
 }
